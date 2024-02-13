@@ -1,2 +1,2 @@
 # fake-news-detection
-author = Dipshikha Tiwari
+Author - Dipshikha Tiwari
